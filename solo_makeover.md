@@ -105,7 +105,7 @@ Since this service latency graph is viewed by dozens of people, we know statisti
     * We will keep _orders_ as-is.
 6. Click *Save Dashboard*. Below is what your panel should look like:
 
-    ![Sockshop App](img/sockshop-app.png)
+    ![Sockshop App](img/otel-demo-chart.png)
 7. Save the dashboard.
 ## Convert the 'Server Request Rates' panel from a time series to a bar gauge panel
 Like our first panel, we want context to understand what good looks like.  Knowing our internal data patterns, we want to avoid service overload conditions where end-user performance can be affected.
