@@ -8,7 +8,7 @@ Follow these steps to Import it:
 
 1. Download the [Dull Dashboard](https://github.com/anasmilhem/extreme-dashboard-makeover-breakouts/blob/main/dull-dashboard.json)
 2. On the Dashboards screen, click the *New* button and then click *Import*.
-3. On the Import Dashboard screen, in the *Import via grafana.com* field, type in `16413` and then click *Load*.
+3. On the Import Dashboard screen, click Upload dashboard JSON file and upload the file we just downloaded
 4. You will be asked to choose three of your dashboard's data sources:
     - For TestData DB, choose `TestData DB`.
     - For Prometheus (Cloud), choose `Prometheus (Cloud)`.
