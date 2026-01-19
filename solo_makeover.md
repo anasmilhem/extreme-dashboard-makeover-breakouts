@@ -6,7 +6,7 @@ We will be revamping the following dashboard.
 **Prerequisite**: We first need to import this dashboard.
 Follow these steps to Import it:
 
-1. Click the menu button (☰) at the top left, and then click on *Dashboards*.
+1. Download the [Dull Dashboard](https://github.com/anasmilhem/extreme-dashboard-makeover-breakouts/blob/main/dull-dashboard.json)
 2. On the Dashboards screen, click the *New* button and then click *Import*.
 3. On the Import Dashboard screen, in the *Import via grafana.com* field, type in `16413` and then click *Load*.
 4. You will be asked to choose three of your dashboard's data sources:
