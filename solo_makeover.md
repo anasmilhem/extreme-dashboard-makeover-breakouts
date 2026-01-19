@@ -144,9 +144,10 @@ After adding these panels, you notice at the top they all have a link icon. Thes
 
 To import that drilldown dashboard (Called `Sockshop Performance`):
 
-1. Click the menu button (☰) at the top left, and then click on *Dashboards*.
-2. On the Dashboards screen, click the *New* button and then click *Import*.
-2. In the Import via grafana.com field, type in `16416` and then click *Load*.
+1. Download this [Sockshop Dashboard](https://github.com/anasmilhem/extreme-dashboard-makeover-breakouts/blob/main/sockshop-performance.json)
+2. Click the menu button (☰) at the top left, and then click on *Dashboards*.
+3. On the Dashboards screen, click the *New* button and then click *Import*.
+4. Upload the Dashboard 
 3. You will be asked to choose your dashboard's data source:
     - For Prometheus (Cloud), choose `Prometheus (Cloud)`.
 4. Click on *Import*.
