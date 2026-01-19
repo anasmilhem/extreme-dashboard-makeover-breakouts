@@ -106,9 +106,7 @@ Since this service latency graph is viewed by dozens of people, we know statisti
 6. Click *Save Dashboard*. Below is what your panel should look like:
 
     ![Sockshop App](img/sockshop-app.png)
-
-7. One more fix!  We notice that the two blue colors are just too similar, and we want to make it obvious.  So, right from the dashboard, we click on the blue line associated with _user_ in the legend, and a set of default colors appear.  Choose Purple.
-8. Save the dashboard.
+7. Save the dashboard.
 ## Convert the 'Server Request Rates' panel from a time series to a bar gauge panel
 Like our first panel, we want context to understand what good looks like.  Knowing our internal data patterns, we want to avoid service overload conditions where end-user performance can be affected.
 1. Edit the *Server Request Rates* panel (hover over the panel's title, click the three vertical dots to show the context menu, and then click *Edit*)
