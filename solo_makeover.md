@@ -52,16 +52,12 @@ This table is showing us tons of information that we already know.  The original
 
 3. In the panel options, under the *Global* settings group, change Decimals from `2` to `0` as the *Instant* value will always be a 0 or 1.
 4. Change the Polygon Border Color to Transparent.
-5. Under Thresholds, click on *Add Threshold*:
-    * For the default threshold, leave the value of 0, but change Color Mode from *ok* to *critical*.  Additionally, change the Color from Red to Orange.
-    * Click *Add Threshold* to add a second threshold level. A new Threshold will appear.
-    * For the second threshold, set value to 1 with Color Mode *ok*.  Additionally, change the Color from Green to Blue.
-7. At the bottom of the options panel, click on *Add value mappings*.
-    * Add a Value mapping, setting the value condition to 1, and the display text to *UP*.
-    * Add a second Value mapping, condition 0 and display text *DOWN*.
-8. Change the Font Family to 'Inter'.
-9. Toggle Automate Font Color to the OFF position. This should render the text in black. Or, use the Font Color box to pick a color of your choice.
-10. Click *Save Dashboard* to the leave the edit mode of that panel.
+5. At the bottom of the options panel, click on *Add value mappings*.
+    * Add a Value mapping, setting the value condition to 1, then change display text to *UP* and change the Color to Blue
+    * Add a second Value mapping, condition 0 then change display text *DOWN* and change the color to Orange
+6. Change the Font Family to 'Inter'.
+7. Toggle Automate Font Color to the OFF position. This should render the text in black. Or, use the Font Color box to pick a color of your choice.
+8. Click *Save Dashboard* to the leave the edit mode of that panel.
 The panel should look similar to what is shown below:
 
     ![K8s Service Status](img/k8s-service-status.png)
