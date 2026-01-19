@@ -194,13 +194,4 @@ After arranging our panels and adding space, your dashboard should look somethin
 
 ![Final-Dashboard One](img/dashboard-one.png)
 
-If you didn't quite finish but would like a working copy of our result you can import the dashboard:
-Steps to Import:
-1. Click the menu button (☰) at the top left, and then click on *Dashboards*.
-2. On the Dashboards screen, click the *New* button and then click *Import*.
-3. In the Import via grafana.com field, type in `16414` and then click *Load*.
-4. You will be asked to choose three of your dashboard's data sources:
-    * For TestData DB, choose `TestData DB`.
-    * For Prometheus (Cloud), choose `Prometheus (Cloud)`.
-    * For LokiNginxLogs, choose `LokiNginxLogs`.
-    * Click on *Import*.
+If you didn't quite finish but would like a working copy of our result. Download it using this [Link]()
