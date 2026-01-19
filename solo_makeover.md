@@ -194,4 +194,4 @@ After arranging our panels and adding space, your dashboard should look somethin
 
 ![Final-Dashboard One](img/dashboard-one.png)
 
-If you didn't quite finish but would like a working copy of our result. Download it using this [Link]()
+If you didn't quite finish but would like a working copy of our result. Download it using this [Link](https://github.com/anasmilhem/extreme-dashboard-makeover-breakouts/blob/main/dull-dashboard-final.json)
