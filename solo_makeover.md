@@ -75,7 +75,7 @@ This one is a mess. I've been told that this data is from OSS [Loki](https://gra
 7. We want to add markers on the map.  Again using the *Search options* in the top right, find *Map layer* and click on Layer 1 *markers*. We want a lookup of the country by our *geoip_country_code* field.
 8. To do this, under *Location Mode*, click *Lookup* and then under Lookup Field, choose *geoip_country_code*.  You should now see data on your map. But we're not done!
 9. Under Styles, change Size from *Fixed Value* to *Value #Hits by geolocation*.
-10. Change Symbol from Circles to Star. Do this by selecting the circle.svg text, selecting Star and hitting 'Select'.
+10. Change Symbol from Circles to x-mark. Do this by selecting the circle.svg text, selecting x-mark and hitting 'Select'.
 11. Change Color from *Fixed color* to *Value #Hits by geolocation*.
 12. The colors of blue and orange seem to blend in a bit much on the map, so we need to make them stand out a bit more. Using the *Search options* box in the top right, enter `thresholds`. Change the base color to Dark Purple by clicking on the orange circle, then clicking on dark purple, and then click outside of that popup window.
 14. For a threshold of 10, change the color to dark Orange using the same method as above.
